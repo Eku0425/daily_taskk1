@@ -19,9 +19,9 @@ class _TextFieldState extends State<TextField> {
         centerTitle: true,
         title: const Text(
           'Dynamic TextFiled',
-          style: TextStyle(color: Colors.black54),
+          style: TextStyle(color: Colors.white),
         ),
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.black,
       ),
       body: SingleChildScrollView(
         child: Column(
